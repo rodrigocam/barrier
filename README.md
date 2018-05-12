@@ -5,7 +5,9 @@ Eliminate the barrier between your machines.
 Master branch build status: &nbsp; [![Build Status](https://travis-ci.org/debauchee/barrier.svg?branch=master)](https://travis-ci.org/debauchee/barrier)
 
 ### Build instructions
-** Debian-based ** : sudo apt -y install cmake gcc build-essential libx11-dev libavahi-compat-libdnssd-dev libxtst-dev qtbase5-dev libssl-dev -> ./clean_build.sh
+* Debian-based: 
+        <p>``sudo apt -y install cmake gcc build-essential libx11-dev libavahi-compat-libdnssd-dev libxtst-dev qtbase5-dev libssl-dev``
+        <p> ``./clean_build.sh``
 
 ### What is it?
 
